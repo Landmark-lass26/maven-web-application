@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.222.94.28:4000/repository/project//</url>
+	      <url>http://18.222.94.28:4000/repository/project/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
